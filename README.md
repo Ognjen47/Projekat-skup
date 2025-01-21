@@ -3,7 +3,7 @@
 Set se deklarise sa: set<Tip podataka>
 
 Osnovne funkcije su:
--insert()
--find()
--erase()
+-insert() \n
+-find() \n
+-erase() \n
 Operacije umetanja, brisanja i pretrage su slozenosti O(log⁡ n).
